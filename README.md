@@ -7,3 +7,5 @@ Although I’m note someone who was aware of Kanji before, this problem certainl
 - XML files seemed to be unordered
 - Porting from SVG to PNG was challenging using Python, as there are very few packages that tend to do that. This was particularly challenging as the SVG path files were in cubic bezier forms, not quadratic bezier forms, and that led to testing a lot of libraries.
 - Testing the alignment between text and images.
+
+Mostly, I'll be using the Accelerate script for fine tuning. Just need to make the dataset in the format that will be used by them.
